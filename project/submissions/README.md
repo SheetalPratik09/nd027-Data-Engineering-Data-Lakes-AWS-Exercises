@@ -12,6 +12,18 @@ This folder contains the final submission artifacts for the STEDI Human Balance 
 - `customer_trusted_to_curated.py`
 - `step_trainer_trusted.py`
 - `machine_learning_curated.py`
+- 'accelerometer_landing.png'
+- 'accelerometer_trusted_count.png'
+- 'accelerometer_trusted.png'
+- 'customer_curated.png'
+- 'customer_landing_null_researchconsent.png'
+- 'customer_landing.png'
+- 'customer_trusted.png'
+- 'machine_Learning_curated.png'
+- 'step_trainer_landing.png'
+- 'step_trainer_trusted.png'
+- 'Project_Soln_Screenshots.docx'
+
 
 ## Recommended job order
 
